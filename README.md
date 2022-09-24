@@ -1,1 +1,1 @@
-# C+ interpreter built in C+
+# C interpreter built in C++
