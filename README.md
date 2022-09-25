@@ -1,4 +1,4 @@
-# Programming languages course assignment
+# Programming-languages-course assignment
 
 ### College-course in junior year
 
